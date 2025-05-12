@@ -7,3 +7,5 @@ nltk==3.8.1
 ipykernel
 Cython==0.29.21
 scikit-learn
+matplotlib
+seaborn

@@ -8,10 +8,12 @@ dependencies = [
     "cython==0.29.21",
     "gensim==4.3.3",
     "ipykernel>=6.29.5",
+    "matplotlib>=3.10.3",
     "nltk==3.8.1",
     "numpy==1.26.4",
     "pandas==2.1.4",
     "scikit-learn>=1.6.1",
     "scipy==1.11.4",
+    "seaborn>=0.13.2",
     "spacy==3.6.1",
 ]
