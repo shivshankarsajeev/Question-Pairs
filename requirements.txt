@@ -4,8 +4,8 @@ scipy==1.11.4
 gensim==4.3.3
 spacy==3.6.1
 nltk==3.8.1
-ipykernel
 Cython==0.29.21
 scikit-learn
 matplotlib
 seaborn
+ipykernel
